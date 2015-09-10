@@ -1,6 +1,4 @@
 # 理解 gitignore
-----------------
-
 使用 git 做代码管理工具时，设置 gitignore 的 pattern 规则十分重要。
 ## Pattern 规则
 关于 Pattern 规则，可以查看 git 的[相关文档][1]，大致有以下几点：
