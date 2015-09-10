@@ -13,14 +13,14 @@
 
 * 匹配 ‘foo’ 目录下除去 ‘foo/bar/‘ 外的内容；
 ```
-`foo/ \#
+foo/ \#
 !foo/bar/
 ```
-`* 匹配所有目录下的 platforms 文件夹；
+* 匹配所有目录下的 platforms 文件夹；
 ```
-`platforms
+platforms
 ```
-`* 匹配所有的 json 文件;
+* 匹配所有的 json 文件;
 ```
 `\*.json
 ````
