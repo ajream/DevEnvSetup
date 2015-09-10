@@ -22,7 +22,7 @@ platforms
 ```
 * 匹配所有的 json 文件;
 ```
-`\*.json
+\*.json
 ````
 
 [1]:	http://git-scm.com/docs/gitignore
